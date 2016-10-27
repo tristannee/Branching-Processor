@@ -23,5 +23,5 @@ Test file containing paris of inputs for *divider.ibits*, where *a* and *b* are 
 
 NOTE
 
-There are more files required for completiona and running the code above. The above files
+There are more files required for completion and running the code above. The above files
 are just the ones I completed.
