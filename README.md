@@ -19,3 +19,9 @@ the values is 32 bits.
 *div_a_b.rbits:*
 
 Test file containing paris of inputs for *divider.ibits*, where *a* and *b* are the inputs.
+
+
+NOTE
+
+There are more files required for completiona and running the code above. The above files
+are just the ones I completed.
