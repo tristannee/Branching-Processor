@@ -1,0 +1,7 @@
+000f # Register 0 is 15
+0005 # Register 1 is 5
+8000 # To test if statement
+0001 # For while loop
+ffff
+ffff
+ffff

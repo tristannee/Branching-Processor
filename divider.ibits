@@ -1,0 +1,10 @@
+0fb6  #  set quotient (register 6) to zero -- 0000111110110110
+0fff  # store 0 into reg 7 -- 0000111111111111
+13c7 # or reg 0 with reg 7 -- 0001001111000111
+0bcf  # store reg 7 - reg 1 in reg 7 -- 0000101111001111
+23d3 # Reg 7 and Reg 2 store in reg 3 -- 0010001111010011
+28c8 # BNZ R3 8 -- 0010100011001000
+1786 # Increment reg 6 -- 0001011110000110
+2903 # BNZ R4 3 -- 0010100010000011
+03cf # R7 + R1 store in R7 -- 0000001111001111
+3c00 # done
