@@ -63,7 +63,7 @@ void nextPC(ProgramCounter *pc) {
      */
 
     /*=======================================================================*/
-    /* TODO:  If the pc->branch bus currently has the BRANCH signal, next_pc */
+    /*        If the pc->branch bus currently has the BRANCH signal, next_pc */
     /*        should be set to branch_addr.  Otherwise, next_pc should be    */
     /*        set to PC + 1.                                                 */
     /*                                                                       */
