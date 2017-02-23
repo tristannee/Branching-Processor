@@ -6,4 +6,6 @@ ffff
 ffff
 ffff
 
-# This program would enter an infinite loop if it weren't for our error-checking. This is because in our while loop, remainder never decreases since divisor is 0 so remainder is always greater than 0 which means we would never reach the break statement.
+# This program would enter an infinite loop if it weren't for our error-checking. 
+# This is because in our while loop, remainder never decreases since divisor is 0 so remainder 
+# is always greater than 0 which means we would never reach the break statement.
